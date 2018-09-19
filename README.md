@@ -1,0 +1,1 @@
+# This is the 503 page for the https://www.prodev0.com/ domain, incase your woundering why this is hosted on github, if the site is down then it can't load the 503 page from its local directory because the website is down so this page is on github.
